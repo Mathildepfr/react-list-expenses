@@ -8,9 +8,9 @@
 .chart-bar__inner {
   height: 100%;
   width: 100%;
-  border: 1px solid #313131;
   border-radius: 12px;
-  background-color: #c3b4f3;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  background-color: #7592b7;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@
 }
 
 .chart-bar__fill {
-  background-color: #4826b9;
+  background-color: #334a67;
   width: 100%;
   transition: all 0.3s ease-out;
 }

@@ -20,9 +20,51 @@ const DUMMY_EXPENSES = [
   },
   {
     id: 'e4',
-    title: 'New Desk (Wooden)',
+    title: 'New Desk',
     amount: 450,
     date: new Date(2021, 5, 12),
+  },
+  {
+    id: 'e5',
+    title: 'Computer',
+    amount: 2200,
+    date: new Date(2021, 6, 10),
+  },
+  {
+    id: 'e6',
+    title: 'Bike',
+    amount: 230,
+    date: new Date(2020, 5, 12),
+  },
+  {
+    id: 'e7',
+    title: 'Food',
+    amount: 35,
+    date: new Date(2020, 7, 2),
+  },
+  {
+    id: 'e8',
+    title: 'Laundry',
+    amount: 8,
+    date: new Date(2021, 4, 3),
+  },
+  {
+    id: 'e9',
+    title: 'TV',
+    amount: 180,
+    date: new Date(2021, 8, 26),
+  },
+  {
+    id: 'e10',
+    title: 'Sport',
+    amount: 26,
+    date: new Date(2020, 11, 2),
+  },
+  {
+    id: 'e11',
+    title: 'Games',
+    amount: 68,
+    date: new Date(2021, 7, 21),
   },
 ];
 
